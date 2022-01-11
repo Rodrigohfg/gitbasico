@@ -1,7 +1,7 @@
 
 
 var rodrigo = 7
-var apellido = 5
+var flores = 5
 var result1 = nombre + apellido
 console.log(nombre + ' + ' + apellido + ' = ', result1);
 
